@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4net.Http.Appender", "Log4net.Http.Appender\Log4net.Http.Appender.csproj", "{29195F2C-961E-4E70-A28F-DDCB9E9EA1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net.Http.Appender.Tests", "Log4Net.Http.Appender.Tests\Log4Net.Http.Appender.Tests.csproj", "{83855251-68AF-4317-BB93-13BF6EF25653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29195F2C-961E-4E70-A28F-DDCB9E9EA1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29195F2C-961E-4E70-A28F-DDCB9E9EA1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29195F2C-961E-4E70-A28F-DDCB9E9EA1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29195F2C-961E-4E70-A28F-DDCB9E9EA1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83855251-68AF-4317-BB93-13BF6EF25653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83855251-68AF-4317-BB93-13BF6EF25653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83855251-68AF-4317-BB93-13BF6EF25653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83855251-68AF-4317-BB93-13BF6EF25653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63D50B1-CFC5-4604-9A54-222A1D47486C}
+	EndGlobalSection
+EndGlobal
